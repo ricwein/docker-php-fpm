@@ -2,4 +2,3 @@
 - mysqli
 - imap
 - redis
-- libsodium
